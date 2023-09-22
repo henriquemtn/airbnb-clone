@@ -1,3 +1,6 @@
+
+![Untitled](https://github.com/henriquemtn/airbnb-clone/assets/92762031/e360c356-a356-4508-aa90-b899684d17a3)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
